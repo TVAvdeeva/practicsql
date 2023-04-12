@@ -3,7 +3,7 @@ package data;
 public class Student {
     private  int id=-1;
     private  String fullName="";
-    private  String gender="ж";
+    private  String gender="F";
     private int groupId=-1;
 
     public Student(int id, String fullName, String gender, int groupId) {
